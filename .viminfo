@@ -21,15 +21,15 @@
 # Registers:
 
 # File marks:
-'0  1  14  ~/vamshi
+'0  1  17  ~/vamshi
 
 # Jumplist (newest first):
--'  1  14  ~/vamshi
+-'  1  17  ~/vamshi
 
 # History of marks within files (newest to oldest):
 
 > ~/vamshi
-	"	1	14
-	^	1	15
-	.	1	14
-	+	1	14
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
